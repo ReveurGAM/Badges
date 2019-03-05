@@ -1,2 +1,8 @@
 # Badges
-Web Dev Badges Earned
+Web Dev Badges and Certificates Earned
+Badges are from:
+Code School
+Codecademy
+Certificates from:
+Udemy
+FreeCodeCamp
